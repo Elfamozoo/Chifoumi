@@ -1,0 +1,19 @@
+Mode Local impossible sur ce jeu
+
+Mode online obligatoire
+
+Conception de BDD sous Symfony avec Login inscription et systeme de Room.
+
+Possibilté de match rapide (Liée a une room au moment de clicker sur le boutton).
+
+Algo qui te lie a la 1er trouvé sur le serveur (Matchmaking).
+
+Connection a la room confirmation de debut du match et partie qui commence.
+
+Envoi du choix au serveur.
+
+Creer une API qui sera l'interface qui fera la passerelle entre les 2 joueurs et qui te dira si l'adversaire a joué.
+
+Elle servira aussi de passerelle entre la base de données et le serveur c'est le back quoi.
+
+https://www.wanadev.fr/225-creer-facilement-une-api-rest-avec-symfony-api-platform/
